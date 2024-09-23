@@ -3,6 +3,10 @@
 
 - 🌱 I’m currently learning **to be a manual QA**
 
+- 👨‍💻 All of my projects are available [here](https://drive.google.com/drive/folders/13fnpsSxe4gdR575PJMcpK29LsO2rcfEh?usp=drive_link)
+
+- 📫 How to reach me **gaguasz@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sophia-gagua-24731a323/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sophia-gagua-24731a323/" height="30" width="40" /></a>
